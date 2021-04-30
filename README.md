@@ -6,3 +6,5 @@
 * 🎯 2021 Goals: Vue, Angular, NextJS, Python, Problem solving.
 * 📋 Ask me about anything....
 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)][facebook] 
+[facebook]: https://www.facebook.com/Arfin005/
