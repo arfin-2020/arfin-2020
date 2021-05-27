@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@arfinchowdhury5" target="blank"><img src="https://img.shields.io/twitter/follow/@arfinchowdhury5?logo=twitter&style=for-the-badge" alt="@arfinchowdhury5" /></a> </p>
 
-- 🔭 I’m currently working on **Programming Hero**
+- 🔭 I’m currently working on **React Native**
 
 - 🌱 I'm currently Learning **ReactJS, NodeJS and MongoDB**
 
