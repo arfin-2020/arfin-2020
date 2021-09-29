@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arfin Chowdhury Arif</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/@arfinchowdhury5" target="blank"><img src="https://img.shields.io/twitter/follow/@arfinchowdhury5?logo=twitter&style=for-the-badge" alt="@arfinchowdhury5" /></a> </p>
+
 
 - 🔭 I’m currently working on **React Native**
 
