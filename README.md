@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arfin Chowdhury Arif</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer (React.JS) from Bangladesh</h3>
 
 
 
-- 🔭 I’m currently working on **React Native**
+
 
 - 🌱 I'm currently Learning **ReactJS, NodeJS and MongoDB**
 
-- 🎯 2021 Goals **Vue, Angular, jQuery,**
+- 🎯 2022 Goals **DSA, Provlem Solving**
 
 - 💬 Ask me about **React**
 
