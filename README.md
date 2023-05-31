@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently Learning **ReactJS, NodeJS and MongoDB**
 
-- 🎯 2022 Goals **DSA, Provlem Solving**
+- 🎯 2023 Goals **DSA, Provlem Solving**
 
 - 💬 Ask me about **React**
 
