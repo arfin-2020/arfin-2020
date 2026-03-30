@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **arfinchowdhuryarif7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_EmRh6su3P9BTrrgZtg8loEazWO4bPc2/view?usp=sharing](https://drive.google.com/file/d/1_EmRh6su3P9BTrrgZtg8loEazWO4bPc2/view?usp=sharing)
-
 - ⚡ Fun fact **I love Dancing, singing**
 
 <h3 align="left">Connect with me:</h3>
