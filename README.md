@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arfin Chowdhury Arif</h1>
-<h3 align="center">A passionate frontend developer (React.JS) from Bangladesh</h3>
-
-
-
+<h3 align="center">A passionate frontend developer (React.JS) from Bangladesh Now live in Muscat, Oman</h3>
 
 
 - 🌱 I'm currently Learning **ReactJS, NodeJS and MongoDB**
 
-- 🎯 2023 Goals **DSA, Provlem Solving**
+
 
 - 💬 Ask me about **React**
 
